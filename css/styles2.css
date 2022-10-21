@@ -1,0 +1,53 @@
+h1 {
+  font-size: 30px;
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+  font-style: italic;
+  color: brown;
+  line-height: 10px;
+}
+
+h2 {
+  font-size: 20px;
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+  font-style: italic;
+  color: brown;
+  line-height: 10px;
+}
+
+h3 {
+  font-size: 15px;
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+  font-style: italic;
+  color: brown;
+  line-height: 10px;
+}
+
+p {
+  font-size: 12px;
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+  font-style: italic;
+  color: brown;
+  line-height: 10px;
+}
+
+ul {
+  font-size: 12px;
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+  font-style: italic;
+  color: brown;
+  line-height: 10px;
+}
+
+li {
+  font-size: 10px;
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+  font-style: italic;
+  color: brown;
+  line-height: 10px;
+}
