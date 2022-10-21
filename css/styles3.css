@@ -1,0 +1,53 @@
+h1 {
+  font-size: 40px;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  font-weight: bold;
+  color: orange;
+  line-height: 20px;
+}
+
+h2 {
+  font-size: 30px;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  font-weight: bold;
+  color: purple;
+  line-height: 20px;
+}
+
+h3 {
+  font-size: 25px;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  font-weight: bold;
+  color: blue;
+  line-height: 20px;
+}
+
+p {
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: left;
+  font-weight: italic;
+  color: gold;
+  line-height: 20px;
+}
+
+ul {
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: left;
+  font-weight: italic;
+  color: gold;
+  line-height: 20px;
+}
+
+li {
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: left;
+  font-weight: italic;
+  color: gold;
+  line-height: 20px;
+}
